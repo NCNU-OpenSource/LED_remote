@@ -24,7 +24,7 @@ ssh連線到pi 在pi上面執行程式讓LED秀出內容。
 ## 器材
 - 8x8LED點矩陣
 - Raspberry Pi
-- 裝有系統的memory card
+- memory card
 - usb傳輸線
 
 ## 參考資料
